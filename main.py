@@ -1,4 +1,4 @@
-
+# main.py
 def generate_sequence(n):
     result = []
     count = 1
